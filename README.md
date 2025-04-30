@@ -1,2 +1,2 @@
 # INVESTMENT_VS_PROFIT_ANALYSIS
-This Excel dashboard presents a comprehensive analysis of project investments and the resulting profits over a specified period. It is designed to help stakeholders understand the financial performance of different investments and identify patterns, trends, and areas for improvement
+This Power BI dashboard provides a dynamic and interactive analysis of project investments and the corresponding profits over a specified time period. Designed for business stakeholders and decision-makers, the dashboard visualizes key financial metrics to help assess performance, optimize investment strategies, and drive profitability.
